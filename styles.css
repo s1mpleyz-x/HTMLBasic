@@ -3,3 +3,9 @@ h1 {
     background-color: lightblue;
     border: solid 2px black;
 }
+
+nav ul {
+    /* DISPLAY */
+    display: flex;
+    gap: 50px;
+}
